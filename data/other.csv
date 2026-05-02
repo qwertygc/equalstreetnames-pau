@@ -194,7 +194,6 @@ Belvédère,,,,way
 "Cours Lyautey",,,,way
 "Cours du 218e Régiment d'Infanterie",,,,relation+way
 "Cours du Général de Division Jacques Camou",,,,relation+way
-"Diffuseur Pau-Morlaas",,,,way
 "Escalier de l'Éventail",,,,way
 "Esplanade André Labarrère",,,,way
 "Impasse André Chénier",,,,way
@@ -262,7 +261,6 @@ Parvis,,,,way
 "Passage Vignancour",,,,way
 "Passage des Alliés",,,,relation
 "Passage du Hédas",,,,way
-"Passage supérieur",,,,way
 "Passerelle Ouest",,,,way
 "Passerelle de la gare",,,,way
 "Pavillon des Arts",,,,way
@@ -299,6 +297,8 @@ Parvis,,,,way
 "Place du Foirail",,,,relation
 "Pont Oscar II",,,,way
 "Pont du 14 Juillet",,,,way
+"Projet de construction de l'échangeur de Pau-Morlàas",,,,way
+"Projet de construction du passage dénivellé supérieur du giratoire Nobel",,,,way
 "Rampe PMR",,,,way
 Rocade,,,,way
 "Rond-Point Éric Tabarly",,,,way
@@ -862,7 +862,7 @@ Rocade,,,,way
 "Rue du Marcadau",,,,way
 "Rue du Maréchal Foch",,,,relation
 "Rue du Maréchal Harispe",,,,way
-"Rue du Maréchal Joffre",,,,relation
+"Rue du Maréchal Joffre",,,,relation+way
 "Rue du Maréchal Juin",,,,way
 "Rue du Marsan",,,,relation+way
 "Rue du Midi",,,,way
