@@ -4,7 +4,6 @@ name,source,gender,wikidata,type
 "3e Allée",,,,way
 "4e Allée",,,,way
 "5e Allée",,,,way
-"6e Allée",,,,way
 "Allée Alfred de Musset",,,,way
 "Allée Buffon",,,,way
 "Allée Condorcet",,,,way
@@ -31,6 +30,7 @@ name,source,gender,wikidata,type
 "Allée Saint-Jean",,,,way
 "Allée de Lapparent",,,,relation
 "Allée de l'Abbé Lemire",,,,relation+way
+"Allée de l'Arlas",,,,way
 "Allée de l'Émir Abd el-Kader",,,,way
 "Allée de la Laïcité",,,,way
 "Allée des Bruyères",,,,way
@@ -46,6 +46,7 @@ name,source,gender,wikidata,type
 "Allée des écoliers Carreròt deus escolans",,,,way
 "Allée du Bocage",,,,way
 "Allée du Grand-Tour",,,,way
+"Allée du Grave Male",,,,way
 "Allées Catherine de Bourbon",,,,relation
 "Allées de Morlaàs",,,,relation+way
 "Avenue Alfred Nobel",,,,way
@@ -170,6 +171,7 @@ Belvédère,,,,way
 "Chemin Guilhem",,,,way
 "Chemin Labriart",,,,relation
 "Chemin Larribau",,,,relation+way
+"Chemin Mitoyen",,,,way
 "Chemin Monge",,,,way
 "Chemin Robert Ollivier",,,,way
 "Chemin Vert",,,,way
@@ -211,6 +213,7 @@ Belvédère,,,,way
 "Impasse Clos des Lilas",,,,way
 "Impasse Franz Liszt",,,,way
 "Impasse Franz Schubert",,,,relation
+"Impasse Gilbert Rutman",,,,way
 "Impasse Goscinny",,,,way
 "Impasse Honset",,,,relation
 "Impasse Jean de la Fontaine",,,,way
@@ -266,7 +269,7 @@ Parvis,,,,way
 "Pavillon des Arts",,,,way
 "Piste cyclable UPPA Est",,,,way
 "Place Albert 1er",,,,relation+way
-"Place Baradat",,,,way
+"Place Baradat",,,,relation
 "Place Charles  Baudelaire",,,,relation
 "Place Charles Baudelaire",,,,way
 "Place François Récaborde",,,,relation+way
@@ -436,7 +439,6 @@ Rocade,,,,way
 "Rue Georges Mandel",,,,way
 "Rue Gérard Cal",,,,way
 "Rue Gérard Philipe",,,,way
-"Rue Gilbert Rutman",,,,way
 "Rue Giocchino Rossini",,,,way
 "Rue Golda Meir",,,,way
 "Rue Goya",,,,way
@@ -512,7 +514,7 @@ Rocade,,,,way
 "Rue Léonard de Vinci",,,,way
 "Rue Les Jardins du Bon Pasteur",,,,way
 "Rue Lespy",,,,relation
-"Rue Louis Barthou",,,,relation
+"Rue Louis Barthou",,,,relation+way
 "Rue Louis Blanc",,,,way
 "Rue Louis Blériot",,,,relation
 "Rue Louis Cluchague",,,,way
@@ -862,7 +864,7 @@ Rocade,,,,way
 "Rue du Marcadau",,,,way
 "Rue du Maréchal Foch",,,,relation
 "Rue du Maréchal Harispe",,,,way
-"Rue du Maréchal Joffre",,,,relation+way
+"Rue du Maréchal Joffre",,,,relation
 "Rue du Maréchal Juin",,,,way
 "Rue du Marsan",,,,relation+way
 "Rue du Midi",,,,way
