@@ -249,7 +249,6 @@ Belvédère,,,,way
 "La Pyrénéenne",,,,way
 "La coulée verte",,,,way
 "Mail arboré",,,,way
-"PLace du Forail",,,,way
 Parvis,,,,way
 "Parvis de Cap Sud",,,,way
 "Passage Carnot",,,,way
@@ -298,6 +297,7 @@ Parvis,,,,way
 "Place du 7e Art",,,,way
 "Place du 7ème Art",,,,way
 "Place du Foirail",,,,relation
+"Place du Forail",,,,way
 "Pont Oscar II",,,,way
 "Pont du 14 Juillet",,,,way
 "Projet de construction de l'échangeur de Pau-Morlàas",,,,way
@@ -793,6 +793,7 @@ Rocade,,,,way
 "Rue des Jonquilles",,,,relation
 "Rue des Laurets",,,,relation
 "Rue des Magnolias",,,,relation
+"Rue des Marnières",,,,way
 "Rue des Mérens",,,,relation
 "Rue des Merisiers",,,,way
 "Rue des Messagers",,,,way
